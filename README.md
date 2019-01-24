@@ -11,7 +11,8 @@ in VigenereBreaker.java change the encrypted file name under breakVigenere().
 
 > ### **Example for a German encrypted text:**
 
-Encrypted: 
+Encrypted:
+...
 Ziöft uguk; – vavchury!
 Htköc lei zühk, jeg lüvf zvf jftöe.
 Lzuntcw sluow Qqqvo jeg Lfowteköwe!
